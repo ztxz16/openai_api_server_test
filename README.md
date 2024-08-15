@@ -4,6 +4,9 @@
 
 ## 测试流程
 
+### 0. 下载测试数据集
+可以从这里下载： https://hf-mirror.com/datasets/learnanything/sharegpt_v3_unfiltered_cleaned_split/tree/main
+
 ### 1. 打开一个VLLM Openai API Server
 
 ``` bash
